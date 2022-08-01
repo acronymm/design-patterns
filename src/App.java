@@ -1,8 +1,9 @@
-import fabricMethod.*;
 import java.util.Scanner;
+
+import factoryMethod.*;
 public class App {
 
-    public static void useFabricMethod() {
+    public static void useFactoryMethod() {
         Scanner sn = new Scanner(System.in);
 
         System.out.println("How would you like to deliver?");
@@ -22,6 +23,6 @@ public class App {
     }
 
     public static void main(String[] args) throws Exception {
-        useFabricMethod();
+        useFactoryMethod();
     }
 }

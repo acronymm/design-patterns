@@ -1,4 +1,4 @@
-package fabricMethod;
+package factoryMethod;
 
 public class Ship implements Transport {
     public void deliver(){

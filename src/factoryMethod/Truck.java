@@ -1,4 +1,4 @@
-package fabricMethod;
+package factoryMethod;
 
 public class Truck implements Transport {
     @Override

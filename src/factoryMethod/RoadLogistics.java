@@ -1,4 +1,4 @@
-package fabricMethod;
+package factoryMethod;
 
 public class RoadLogistics extends Logistics {
     @Override
